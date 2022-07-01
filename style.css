@@ -18,8 +18,9 @@
     background-color: #000000cb;
     border: solid;
     border-radius: 10%;
-    height: 60vh;
-    width: 18vw;
+    height: 25em;
+    width: 18em;
+    margin-bottom: 1em;
 }
 h2{
     font-size: 2em;
@@ -48,4 +49,11 @@ button:hover{
 }
 #btn-zero{
     width: 6.2em;
+}
+a{
+    color: #ffffff;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
 }
